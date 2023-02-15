@@ -1,0 +1,15 @@
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\bin\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.exe
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\bin\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.deps.json
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\bin\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.runtimeconfig.json
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\bin\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\bin\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.pdb
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.csproj.AssemblyReference.cache
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.AssemblyInfoInputs.cache
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.AssemblyInfo.cs
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.csproj.CoreCompileInputs.cache
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\refint\2) C#101 Ödev 3 Tip Dönüşümleri.dll
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.pdb
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\2) C#101 Ödev 3 Tip Dönüşümleri.genruntimeconfig.cache
+c:\Users\muaze\Desktop\2) C#101 Ödev 3 Tip Dönüşümleri\obj\Debug\net6.0\ref\2) C#101 Ödev 3 Tip Dönüşümleri.dll
